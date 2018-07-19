@@ -11,7 +11,7 @@
     {
       "name": "algo",
       "params": {
-        "dimensions": 20.0,
+        "dimensions": 15.0,
         "yearWeight": 2.0,
         "durationWeight": 1.0,
         "normalizeProjection": true
